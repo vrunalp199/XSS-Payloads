@@ -128,24 +128,32 @@ XSS-Learning-Lab/
 ├── LICENSE
 ├── DISCLAIMER.md
 │
-├── theory/
-│   ├── reflected-xss.md
-│   ├── stored-xss.md
-│   ├── dom-xss.md
-│   └── secure-coding.md
-│
-├── research/
-│   ├── attack-surface-analysis.md
-│   ├── browser-security.md
-│   └── mitigation-strategies.md
+├── Payload/
+│   ├── 1. Classic Reflected XSS Payloads.md
+│   ├── 2. DOM-Based XSS Payloads.md
+│   ├── 3. Stored XSS Payloads.md
+│   ├── 4. Event-Based XSS Payloads.md
+│   ├── 5. Image-Based XSS Payloads.md
+│   ├── 6. SVG-Based XSS Payloads.md
+│   ├── 7. HTML5-Based XSS Payloads.md
+│   ├── 8. JSONP-Based XSS Payloads.md
+│   ├── 9. URL-Based XSS Payloads.md
+│   ├── 10. Advanced Payloads (Stealing Cookies, Redirecting Users).md
+│   ├── 11. Payloads to Bypass Filters.md
+│   ├── 12. Payloads to Exploit Browser Vul.md
+│   ├── 13. Payloads to Bypass CSP (Content.md
+│   ├── 14. Payloads to Bypass Input Validation.md
+│   ├── 15. Payloads to Bypass Output Encode.md
+│   ├── 16. Payloads to Bypass Filtered Keyword.md
+│   ├── 17. Payloads to Bypass Filtered Tags.md
+│   ├── 18. Payloads to Bypass Filtered Attributes.md
+│   ├── 19. Payloads to Bypass Filtered Characters.md
+│   ├── 20. Payloads to Bypass Filtered Spaces.md    
 │
 ├── labs/
 │   ├── webgoat-lab.md
 │   ├── juice-shop-lab.md
-│   └── learning-notes.md
-│
-├── reports/
-│   ├── findings.md
+│   ├── learning-notes.md
 │   └── recommendations.md
 │
 └── images/
