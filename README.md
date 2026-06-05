@@ -187,18 +187,17 @@ The author does not support or encourage unauthorized testing, misuse, or illega
 
 ## Author
 
-### Vrunal
+## 👨‍💻 Author
 
-**B.Sc. Computer Science**
-**Certified Ethical Hacker (CEH)**
+<p align="center">
+  <img src="https://github.com/vrunalp199.png" width="150">
+</p>
 
-Interested in:
-
-* Cybersecurity
-* Penetration Testing
-* Web Application Security
-* Security Research
-* Secure Software Development
+<p align="center">
+  <b>Vrunal Patil</b><br>
+  Computer Science Student<br>
+  Raspberry Pi & Cyber Security Enthusiast
+</p>
 
 ---
 
